@@ -7,6 +7,9 @@
 
 ![DEMO](https://i.postimg.cc/KzJb2cM4/ezgif-3-17713c3240.gif)
 
+Check it in my potfolio:
+https://neelanjan-chakraborty.github.io/project1.html
+
 ## Description
 
 🔹 Project Objective:
