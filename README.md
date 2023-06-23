@@ -45,5 +45,4 @@ Develop a powerful Power BI dashboard to analyze and visualize computer game sal
 ## 🔗 Links
 [![Github](https://i.postimg.cc/NfKGNvrB/Github.png)](https://github.com/Neelanjan-chakraborty)
 [![Github](https://i.postimg.cc/xT88WbBr/instagram.png)](https://www.instagram.com/n.e_e.l/)
-
 [![Github](https://i.postimg.cc/pV7qFKfk/linkedin.png)](https://www.linkedin.com/in/neelanjanchakraborty/)
